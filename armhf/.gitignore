@@ -1,0 +1,11 @@
+# Vim
+.*.sw[a-z]
+
+# Other
+*.tar.gz
+hda1.qcow2
+initrd.img-3.16.0-4-armmp
+install-initrd.gz
+install-vmlinuz
+vexpress-v2p-ca9.dtb
+vmlinuz-3.16.0-4-armmp

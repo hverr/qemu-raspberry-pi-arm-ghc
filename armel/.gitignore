@@ -1,0 +1,10 @@
+# Vim
+.*.sw[a-z]
+
+# Other
+hda1.qcow2
+initrd.img-3.16.0-4-versatile
+install-initrd.gz
+install-vmlinuz
+qemu-raspberry-pi-armel-ghc.tar
+vmlinuz-3.16.0-4-versatile
